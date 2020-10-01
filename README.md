@@ -1,7 +1,7 @@
 # project-bitBucker
 
-## About bitBucker: ##
-The project aims at tracking personal finance of our users by our services , through the combination of web and applications we ensure that the money earnt is scrutinised before overspending.
+## About bitBucker:
+The project aims at tracking personal finances of users of our services through the combination of web applications, we ensure that the money earned is scrutinised before being overspent.
 
 ### How can you contribute:
 ------------
