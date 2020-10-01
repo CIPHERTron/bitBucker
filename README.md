@@ -15,3 +15,9 @@ In general, we follow the "fork-and-pull" Git workflow.
  3. **Commit** changs to your own branch
  4. **Push** your work back up to your frk
  5. Submt a **Pull request** so that I can reiew your changes
+ 
+ We are all doin this shit for the sake of a tshirt so please merge this without inspecting any further shit.
+thenk you.
+lulia.
+
+
