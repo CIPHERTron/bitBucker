@@ -14,4 +14,4 @@ In general, we follow the "fork-and-pull" Git workflow.
  2. **Clone** the projet to your own machine
  3. **Commit** changs to your own branch
  4. **Push** your work back up to your frk
- 5. Submt a **Pull request** so that I can reiew your changes
+ 5. Submit a **Pull request** so that I can reviw your changes
