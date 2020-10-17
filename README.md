@@ -17,3 +17,13 @@ In general, we follow the "fork-and-pull" Git workflow.
  5. Submit a **Pull request** to the **dev** branch so that I can review your changes.
 
 **Happy Hacktober fest :)**
+<<<<<<< Updated upstream
+=======
+=======
+ Follow the above procedure to win your Hacktoberfest T-shirt!!
+
+ Don't forget. No contribution is small. Every single contribution that makes this project better is welcome!
+
+**Happy Hacking :)**
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
