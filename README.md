@@ -1,7 +1,7 @@
 # project-bitBucker
 
 ## About bitBucker: ##
-The project aims at tracking personal finance of our users by our services , through the combination of web and applications we ensure that the money earnt is scrutinised before overspending. Do contribute to this project and help in making it better. 
+The project aims at tracking personal finance of our users by our services , through the combination of web and applications we ensure that the money earnt is scrutinised before overspending. Do contribute to this project and help in making it better.
 
 ### How can you contribute:
 ------------
@@ -16,4 +16,10 @@ In general, we follow the "fork-and-pull" Git workflow.
  4. **Push** your work back up to your fork
  5. Submit a **Pull request** to the **dev** branch so that I can review your changes.
 
+<<<<<<< Updated upstream
 **Happy Hacktober fest :)**
+=======
+ Follow the above procedure to win your Hacktoberfest T-shirt!!
+
+**Happy Hacking :)**
+>>>>>>> Stashed changes
